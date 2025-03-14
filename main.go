@@ -1,8 +1,7 @@
 package main
 
-import "fmt"
+import "log"
 
-const unused = `unusedstr`
 
 func main() {
 	fmt.Println("Hello world")
